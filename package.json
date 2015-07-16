@@ -13,6 +13,7 @@
     "less": "^2.4.0",
     "less-loader": "^2.2.0",
     "lodash": "^3.5.0",
+    "react": "^0.14.0-beta1",
     "react-component-playground": "^0.3.0",
     "react-hot-loader": "^1.2.7",
     "react-querystring-router": "^0.2.0",
@@ -40,9 +41,6 @@
     "mocha": "^2.2.4",
     "sinon": "^1.14.1",
     "sinon-chai": "^2.7.0"
-  },
-  "peerDependencies": {
-    "react": "^0.13.1"
   },
   "scripts": {
     "pretest": "jscs --esprima=esprima-fb ./",
